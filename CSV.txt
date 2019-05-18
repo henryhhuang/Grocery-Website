@@ -1,0 +1,121 @@
+1101, Plain Whole Grain Bagel, Bread / Bakery, Thomas, Your daily carbs, $4.99,1101.png,
+1102, Everything Bagel, Bread / Bakery, Thomas, Seasoned, $4.99,1102.png,
+1103, Cinnamon Raisin Bagel, Bread / Bakery, Thomas, A touch of sugary delight, $4.99,1103.png,
+1104, Blueberry Bagel, Bread / Bakery, Thomas, Blue fruity delight, $4.99,1104.png,
+ 
+1201, White Bread, Bread / Bakery, Wonder, Plain like ur life, $2.99,1201.png,
+1202, Italian Bread, Bread / Bakery, Wonder, A pinch of Italian, $2.99,1202.png,
+1203, Texas Toast Bread, Bread / Bakery, Wonder, Big like Texas, $2.99,1203.png,
+1204, Bar-BQ Bread, Bread / Bakery, Wonder, perfect for your BBQs, $2.99,1204.png,
+ 
+1301, Greek Pita, Bread / Bakery, Papa Pita, A dash of Greek, $3.99,1301.png,
+1302, Whole Wheat Pita, Bread / Bakery, Mr.Pita, The Healthy lifestyle, $3.99,1302.png,
+1303, White Pita, Bread / Bakery, Joesphs, Plain Grain, $3.99,1303.png,
+1304, Sweet Onion Pita, Bread / Bakery, Toufayan, A bit of Flavour, $3.99,1304.png,
+ 
+2101, 1% Milk, Dairy, Neilson, just 1, $1.99,2101.png,
+2102, 2% Milk, Dairy, Neilson, just 2, $1.99,2102.png,
+2103, Homo Milk, Dairy, Neilson, Fatty Milk, $2.79,2103.png,
+2104, Chocolate Milk, Dairy, Natrel, Yummy Chocolate Milk, $1.99,2104.png,
+ 
+2201, Strawberry Yogurt, Dairy, Yoplait, Strawberry Delight, $2.99,2201.png,
+2202, Cherry Yogurt, Dairy, Yoplait, Cherry Delight, $2.99,2202.png,
+2203, Vanilla Yogurt, Dairy, Yoplait, Vanilla Delight, $2.99,2203.png,
+2204, Greet Yogurt, Dairy, Liberte, Gotta Go Grab Greek, $4.99,2204.png,
+ 
+2301, Nacho Cheese, Dairy, No Name, bring in the inner Mexican w/ a mix of 3 cheese, $6.99,2301.png,
+2302, German Blue Cheese, Dairy, Cambozola, Blauer Käse, $12.99,2302.png,
+2303, Havarti Cheese, Dairy, Kraft, As white as it can get, $5.99,2303.png,
+2304, Pizza Double Cheese, Dairy, Black Diamond, Mix of 2 cheese, $5.99,2304.png,
+ 
+3101, Lean Ground Beef, Meat, President's Choice, perfect for burger patty, $5.99,3101.png,
+3102, Beef Steak, Meat, President's Choice, Steaks for dates, $12.99,3102.png,
+3103, Strip Loin Steak, Meat, President's Choice, Single Steak for the lonely nights, $15.99,3103.png,
+3104, Beef Brisket, Meat, President's Choice, a roll of brisket, $12.99,3104.png,
+ 
+3201, Pork Belly Sliced, Meat, President's Choice, yummy from the belly to the belly, $6.99,3201.png,
+3202, Tenderloin, Meat, President's Choice, Dice it up , $6.99,3202.png,
+3203, Pork Loin Chop, Meat, President's Choice, Great for BBQ, $5.99,3203.png,
+3204, Lean Ground Pork, Meat, President's Choice, Slapped down pork, $5.99,3204.png,
+ 
+3301, Whole Chicken, Meat, Marvid Poultry Kosher, For the Family Dinners, $16.99,3301.png,
+3302, Chicken Bones, Meat, Marvid Poultry Kosher, Season & Bake, $2.79,3302.png,
+3303, Boneless Chicken Breast, Meat, Marvid Poultry Kosher, Season & Grill, $20.99,3303.png,
+ 
+4101, Oreo Ice Cream, Frozen Foods, Christie, Perfect Dessert, $4.99,4101.png,
+4102, Chocolate Ice Cream, Frozen Foods, President's Choice, Sweet Tooth Pleaser, $6.99,4102.png,
+4103, Neapolitan Ice Cream, Frozen Foods, President's Choice, 3 Great Flavours, $6.99,4103.png,
+4104, Vanilla Ice Cream Sandwich, Frozen Foods, Klondike, What would you do for a Klondike bar?, $2.99,4104.png,
+4105, Coffee Ice Cream, Frozen Foods, Haagen-Dazs, For the coffee lovers, $4.99,4105.png,
+ 
+4201, Chicken Pies, Frozen Foods, Schneiders, Quick and delicious, $5.79,4201.png,
+4202, Shepards Pies, Frozen Foods, President's Choice, Quick and filling, $11.99,4202.png, 
+4203, Buffalo Chicken Wings, Frozen Foods, Pinty's, Spicy wings lover, $17.99,4203.png,
+4204, BBQ Chicken Wings, Frozen Foods, Pinty's, A whole great batch for yourself, $13.99,4203.png,
+ 
+4301, Frozen Cherries, Frozen Foods, President's Choice, Ready to blend, $3.99,4301.png,
+4302, Frozen Raspberries, Frozen Foods, President's Choice, Ready to blend, $3.99,4302.png,
+4303, Frozen Strawberries, Frozen Foods, President's Choice, Ready to blend, $3.99,4303.png,
+4304, Frozen Blueberries, Frozen Foods, Welch's, Ready to blend, $6.99,4304.png,
+ 
+5101, Salmon, Seafood, Nanuk, Freshly Frozen, $19.99,5101.png,
+5102, Tilapia Fillets, Seafood, St.Peters, Grill it!, $3.99,5102.png,
+5103, Haddock Loins, Seafood, High Liners, Hand cut and ready, $5.59,5103.png,
+5104, Basa Fillets, Seafood, SeaQuest, Farm raised, $5.99,5104.png,
+ 
+5201, Shrimp Ring, Seafood, SeaQuest, In a platter and ready to go, $5.59,5201.png,
+5202, Crab Legs and Claws, Seafood, Orion King, Fresh Pick, $13.39,5202.png,
+5203, Lobster Tail, Seafood, Loblaw foods, Fresh cut, $4.99,5203.png,
+5204, Snow Crab, Seafood, Loblaw foods, Canadian Crabs, $36.15,5204.png,
+ 
+5301, Live Mussels, Seafood, Loblaw Foods, Another fresh batch, $4.49,5301.png,
+5302, Pasta Clams, Seafood, President's Choice, Italian tonight?, $1.29,5302.png,
+5303, Scallops, Seafood, SeaQuest, Fresh Canadian Scallops, $20.99,5303.png,
+ 
+6101, Luncheon Meat, Canned/Jarred Goods, Spam, Ready to Go, $3.99,6101.png,
+6102, Corned Beef, Canned/Jarred Goods, Grace, A extra kick to your meal, $4.29,6102.png,
+6103, Crab Meat, Canned/Jarred Goods, Clover Leaf, Seafood 4 U, $3.99,6103.png,
+6104, Turkey, Canned/Jarred Goods, Maple Leaf, Chopped and Ready, $2.99,6104.png,
+ 
+6201, Mixed Vegetable, Canned/Jarred Goods, No Name, Healthy Diet, $1.99,6201.png,
+6202, Black Beans, Canned/Jarred Goods, President's Choice, Fibers in a can, $2.99,6202.png,
+6203, Kidney Beans, Canned/Jarred Goods, Unico, Bean a good diet, $1.49,6203.png,
+6204, Tomatoes, Canned/Jarred Goods, Unico, No salt added, $1.49,6204.png,
+ 
+6301, Baby Dill Pickles, Canned/Jarred Goods, Bick's, a small snack, $4.99,6301.png,
+6302, Pickled Beans, Canned/Jarred Goods, Safies, Salty Long Beans, $4.99,6302.png,
+6303, Sliced Pickled Turnips, Canned/Jarred Goods, Arz, Just a Bit Sour, $4.99,6303.png,
+6304, Hot Banana Peppers, Canned/Jarred Goods, Bick's, Hot and Ready, $4.99,6304.png,
+ 
+7101, Natural Spring Water, Beverages, Eska, Refreshing Water, $3.99,7101.png,
+7102, FIJI Water, Beverages, Fiji, A Taste of Fiji, $2.29,7102.png,
+7103, Natural Mineral Water, Beverages, San Benedetto, Fresh Mineral Water, $3.39,7103.png,
+ 
+7201, Sprite, Beverages, The Coca-Cola Company, Refreshing Taste of Sprite, $2.99,7201.png,
+7202, Coca-Cola, Beverages, The Coca-Cola Company, Cold Coca Cola, $2.99,7202.png,
+7203, Fanta Orange, Beverages, The Coca-Cola Company, Real Orange, $2.99,7203.png,
+7204, Root Beer, Beverages, Dr Pepper Snapple Group, Great Root Beer, $2.99,7204.png,
+ 
+7301, Orange Juice, Beverages, Tropicana, Pure Orange Juice, $4.99,7301.png,
+7302, Apple Juice, Beverages, President's Choice, Not from Concentration, $4.99,7302.png,
+7303, Peach Juice, Beverages, Fruite, 100% Peach Juice, $4.99,7303.png,
+7304, Cranberry Juice, Beverages, Oasis, Great source of vitamin C, $4.99,7304.png,
+
+8101, Green Leaf Lettuce, Vegetables, Cho Wing Farms, From our farm to your home, $3.89,8101.png,
+8102, Romaine Lettuce, Vegetables, Cho Wing Farms, From our farm to your home, $3.89,8102.png,
+8103, Red Leaf Lettuce, Vegetables, Cho Wing Farms, From our farm to your home, $3.89,8103.png,
+8104, Iceberg Lettuce, Vegetables, Cho Wing Farms, From our farm to your home, $3.89,8104.png,
+ 
+8201, Yellow Pepper, Vegetables, Green House, Fresh Sweet Yellow Pepper, $1.69,8201.png,
+8202, Orange Pepper, Vegetables, Green House, Fresh Sweet Orange Pepper, $1.89,8202.png,
+8203, Red Pepper, Vegetables, Green House, Fresh Sweet Red Pepper, $2.49,8203.png,
+8204, Green Pepper, Vegetables, Green House, Fresh Sweet Green Pepper, $1.79,8201.png,
+ 
+8301, Ancho Chillies, Vegetables, Cho Wing Farms, Hot Peppers Delivered Fresh, $3.99,8301.png,
+8302, Jalapeño Peppers, Vegetables, Cho Wing Farms, Hot Peppers Delivered Fresh, $0.54,8302.png,
+8303, Ghost Peppers, Vegetables, Mucci Farms, Extremely Lit, $3.99,8303.png,
+ 
+8401, Mini Cucumbers, Vegetables, Nonfolk, Perfect for the little ones, $3.99,8401.png,
+8402, Green Kale, Vegetables, Cho Wing Farms, A healthy choice, $2.99,8402.png,
+8403, Spinach, Vegetables, Cho Wing Farms, A fresh source of Iron, $2.49,8403.png,
+8404, Broccoli, Vegetables, Cho Wing Farms, Calcium delivered right to your door, $3.49,8404.png,

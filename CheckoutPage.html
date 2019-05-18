@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>FARM2HOME Checkout</title>
+		<center>
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<link rel="stylesheet" type="text/css" href="Summative.css">
+			<button class="dropbtn" onclick="location.href='HomePage.html'" type="button">Home</button>
+			<script src="Summative.js"></script>
+			<img src="shoppi.png" style="width:100px;height:100px;" align="middle">
+			<button class="dropbtn" onclick="location.href='SummativeTest.html'" type = "button"> Back To Shopping </button>
+		</center>
+	</head>
+
+	<h1>
+		<img src="Farm2Home.jpg" style="width:1000px;height:300px;">
+	</h1>
+	
+	<body>
+		<h2>
+		Check Out
+		</h2>
+		<div id = "checkout">	
+			<form id = "frm1">
+				<p> Enter your First Name </p>
+				<input type ="text" name = "Fname">
+				<p> Enter your Last Name </p>
+				<input type ="text" name = "Lname">
+				<p> Enter your Street Name </p>
+				<input type ="text" name = "street">
+				<p> Province: </p>
+				<select id = "cateCompany">
+					<option value="BritishColumbia">British Columbia</option>
+					<option value="Alberta">Alberta </option>
+					<option value="NovaScotioa">Nova Scotioa </option>
+					<option value="Saskatchewan">Saskatchewan</option>
+					<option value="Manitoba">Manitoba</option>
+					<option value="Ontario">Ontario</option>
+					<option value="NewfoundlandLabrador">Newfoundland and Labrador </option>
+					<option value="NewBrunswick">New Brunswick</option>	
+					<option value="PrinceEdwardIsland">Prince Edward Island </option>
+				</select>	
+				<p> City: </p>
+				<input type ="text" name = "City">
+				<p> Enter your Email Address </p>
+				<input type ="text" name = "Email">
+			</form>
+			<button class="dropbtn" onclick ="CheckOut()"> Submit & Order </button>
+		</div>
+	</body> 
+	
+	<br>
+	
+	<footer> 
+		Copyright &copy; Farm2Home <br> By Henry Huang, Max Jin and Alfred Yong
+	<footer> 
+</html>

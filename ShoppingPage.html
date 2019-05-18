@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>FARM2HOME Shopping Page </title>
+			<meta name="viewport" content="width=device-width, initial-scale=1"><!--slideshow view !-->
+			<link rel="stylesheet" type="text/css" href="Summative.css">
+			<button class="dropbtn" onclick="location.href='HomePage.html'" type="button">Home</button>
+			<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for Items..">
+			<script src="Summative.js"></script>
+			<button  class="dropbtn" onclick ="shoppinCart()" > <img src="shoppi.png" style="width:65px;height:70px;" align="middle"> </button>
+	</head>
+
+	<h1>
+		 <img src="Farm2Home.jpg" style="width:1000px;height:300px;">
+	</h1>
+	
+	<div id = "sort">
+		<button class="dropbtn" onclick="GenerateTable();"> Sort Items By ID</button>
+		<button class="dropbtn" onclick="GenerateTable(); sortTable(2)"> Sort Items By Category (Alphabetical) </button>
+		<button class="dropbtn" onclick="GenerateTable(); sortTable(3)"> Sort Items By Company (Alphabetical)</button>
+	</div>
+	<br>
+	<div id = "category">
+		<button class ="categorybuttons" onclick="clearTable(2, ' Bread / Bakery')"> Bread / Bakery</button>
+		<button class ="categorybuttons" onclick="clearTable(2, ' Dairy')"> Dairy</button>
+		<button class ="categorybuttons" onclick="clearTable(2, ' Meat')"> Meat</button>
+		<button class ="categorybuttons" onclick="clearTable(2, ' Frozen foods')"> Frozen Foods</button>
+		<button class ="categorybuttons" onclick="clearTable(2, ' Seafood')"> Seafood</button>
+		<button class ="categorybuttons" onclick="clearTable(2, ' Canned/Jarred goods')"> Canned/Jarred Goods</button>
+		<button class ="categorybuttons" onclick="clearTable(2, ' Beverages')"> Beverages</button>
+		<button class ="categorybuttons" onclick="clearTable(2, ' Vegetables')"> Vegetables</button>
+	</div>
+	<p> Sort by Company :
+		<select id = "cateCompany">
+			<option> Arz</option>
+			<option> Bick's</option>
+			<option> Black Diamond</option>
+			<option> Cambozola</option>
+			<option> Cho Wing Farms</option>
+			<option> Christie</option>
+			<option> Clover Leaf</option>
+			<option> Dr Pepper Snapple Group</option>
+			<option> Eska</option>
+			<option> Fiji</option>
+			<option> Fruite</option>
+			<option> Grace</option>
+			<option> Green House</option>
+			<option> High Liners</option>
+			<option> Haagen-Dazs</option>
+			<option> Joesphs</option>
+			<option> Klondike</option>
+			<option> Kraft</option>
+			<option> Liberte</option>
+			<option> Loblaw foods</option>
+			<option> Maple Leaf</option>
+			<option> Marvid Poultry Kosher</option>
+			<option> Mr.Pita</option>
+			<option> Mucci Farms</option>
+			<option> Nanuk</option>
+			<option> Natrel</option>
+			<option> Neilson</option>
+			<option> No Name</option>
+			<option> Nonfolk</option>
+			<option> Oasis</option>
+			<option> Orion King</option>
+			<option> Papa Pita</option>
+			<option> Pinty's</option>
+			<option> President's Choice</option>
+			<option> Safies</option>
+			<option> San Benedetto</option>
+			<option> Schneiders</option>
+			<option> SeaQuest</option>
+			<option> Spam</option>
+			<option> St.Peters</option>
+			<option> The Coca-Cola Company</option>
+			<option> Thomas</option>
+			<option> Toufayan</option>
+			<option> Tropicana</option>
+			<option> Unico</option>
+			<option> Welch's</option>
+			<option> Wonder</option>
+			<option> Yoplait</option>
+		</select>
+		<button class="dropbtn" onclick ="confirmation()"> Confirm </button>
+	</p>		
+
+	<body>
+		<table>
+			<tr>
+				<td> ID </td>
+				<td> Name </td>
+				<td> Category </td>
+				<td> Company </td>
+				<td> Description </td>
+				<td> Price </td>
+				<td> Picture </td>
+			</tr>
+		</table>
+		
+		<table id ="Invtable">	
+		</table>
+		<iframe id="frmFile" src="CSV.txt" onload="GenerateTable();" style="display: none;"></iframe><!--IFrame used to call the csv file and generating the table!-->
+	</body>
+	
+	<footer> Copyright &copy; Farm2Home <br>
+	By Henry Huang, Max Jin and Alfred Yong
+	</footer> 
+	
+</html>
+
+
+

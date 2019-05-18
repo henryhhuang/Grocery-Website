@@ -1,0 +1,198 @@
+footer {
+    padding: 1em;
+    color: #800000;
+    background-color: #F08080;
+    clear: left;
+    text-align: left;
+}
+
+p, h3 {
+    padding: 1em;
+    color: #800000;
+    background-color: #F08080;
+	text-align:center;
+}
+head {
+	text-align:center;
+}
+
+#sort{
+	text-align:center;
+}
+
+h1 {
+	text-align:center;
+}
+
+table {
+  border: 3px solid #58D68D;
+  margin-top: 2rem;
+  table-layout:fixed;
+  overflow:hidden;
+  word-wrap:break-word;
+}
+
+
+td,tr {
+  border: 3px solid #58D68D;
+  border-collapse: collapse;
+  padding: .25rem;
+  table-layout:fixed;
+  width: 200px;
+  background-color: #F08080;
+}
+
+th {
+  text-transform: capitalize;
+}
+
+
+.categorybuttons { 
+	font-family: "Times New Roman", Times, serif;
+	color: #800000;
+	background-color: #CD5C5C;
+    padding: 14px;
+    font-size: 16px;
+	float: center;
+	border: 2px solid #CD5C5C;
+	cursor: pointer;
+	border-radius:8px;
+}
+
+#category {
+	text-align:center;
+	float: middle;
+}
+
+
+input[type=text] {
+    margin: auto;
+    width: 80%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+	background-color: #ba9c9d;
+}
+
+h2, body {
+    background-color: #FFA07A;
+	font-family: "Times New Roman", Times, serif;
+	text-align:center;
+}
+
+#checkout {
+	text-align:center;
+}
+#cateCompany {
+	text-align:center;
+	color: #800000;
+	background-color: #CD5C5C;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	padding-left: 15px;
+	background-image: 	
+}
+
+.dropbtn {
+	display: inline-block;
+	font-family: "Times New Roman", Times, serif;
+    background-color: #CD5C5C;
+    color: #800000;
+    padding: 16px;
+    font-size: 20px;
+    border: 2px solid purple;
+    cursor: pointer;
+	border-radius:8px;
+	text-align:center;
+}
+
+#btn {
+	font-family: "Times New Roman", Times, serif;
+    background-color: #CD5C5C;
+    color: #800000;
+    padding: 12px;
+    font-size: 16px;
+    border: 2px solid purple;
+    cursor: pointer;
+	border-radius:15px;
+}
+
+
+
+* {box-sizing:border-box}
+body {font-family: Verdana,sans-serif;}
+.mySlides {display:none}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 13px;
+  width: 13px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
